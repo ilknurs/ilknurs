@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilknurs&layout=compact)](https://github.com/ilknurs/ilknurs)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilknurs&hide=javascript,html)](https://github.com/ilknurs/ilknurs)
+
 <!--
 **ilknurs/ilknurs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

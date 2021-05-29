@@ -4,11 +4,11 @@
  
  I'm a junior software developer. I am trying to learn programming languages and I really enjoy it.
  
- 
 
 
 
-![İlknur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilknur&hide=contribs,prs&theme=midnight-purple&show_icons=true)
+
+![İlknur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilknurs&show_icons=true,count_private=true,prs&theme=midnight-purple&show_icons=true)
 
 
 

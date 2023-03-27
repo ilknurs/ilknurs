@@ -18,4 +18,4 @@ I'm a Junior Software Developer. I am trying to learn programming languages and 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ilknurs&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ilknurs&icon=0&color=12)]()

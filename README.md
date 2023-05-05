@@ -14,7 +14,7 @@ I'm a Junior Software Developer. I am trying to learn programming languages and 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilknurs&layout=compact&theme=midnight-purple&show_icons=true)](https://github.com/ilknurs/ilknurs)
+
 
 
 ---

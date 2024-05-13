@@ -2,8 +2,7 @@
 ### Hi there 👋
 
  I'm İlknur!
-I'm a curious Software Engineer living in Kusadasi/Turkiye who enjoys researching, learning and developing :) <br><br> 
-I am currently learning  <br><br> ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) <br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) 
+
 
 ---
 ## 🌐 Socials:
